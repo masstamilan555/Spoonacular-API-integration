@@ -1,0 +1,44 @@
+{
+  "query": {
+    "q": "pasta",
+    "page": 1,
+    "pageSize": 5
+  },
+  "data": {
+    "results": [
+      {
+        "id": 654959,
+        "title": "Pasta With Tuna",
+        "image": "https://img.spoonacular.com/recipes/654959-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 648279,
+        "title": "Italian Tuna Pasta",
+        "image": "https://img.spoonacular.com/recipes/648279-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 655806,
+        "title": "Pesto & Yogurt Pasta",
+        "image": "https://img.spoonacular.com/recipes/655806-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 716429,
+        "title": "Pasta with Garlic, Scallions, Cauliflower & Breadcrumbs",
+        "image": "https://img.spoonacular.com/recipes/716429-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 654902,
+        "title": "Pasta with Butternut Squash, Sausage and Sage Pesto",
+        "image": "https://img.spoonacular.com/recipes/654902-312x231.jpg",
+        "imageType": "jpg"
+      }
+    ],
+    "offset": 0,
+    "number": 5,
+    "totalResults": 285
+  }
+}
